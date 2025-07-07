@@ -35,4 +35,4 @@ In **Stick Hero**, your goal is to help the hero cross from one platform to anot
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/stick-hero-game.git
+   git clone https://github.com/amitpaul2004/stick-hero-game.git
