@@ -4,7 +4,8 @@ A fun and addictive mini-game built with **HTML**, **CSS**, and **JavaScript**.
 
 In **Stick Hero**, your goal is to help the hero cross from one platform to another using a stick. Press and hold to stretch the stick, release to drop it — but be careful! If the stick is too short or too long, the hero will fall.
 
-![Stick Hero Screenshot](caa24b18-0b1a-4fa9-a140-5baa7df9953a.png)
+![image](https://github.com/user-attachments/assets/bf2e01f3-1efc-444b-828b-9ccd8667520e)
+
 
 ## 🎮 How to Play
 
